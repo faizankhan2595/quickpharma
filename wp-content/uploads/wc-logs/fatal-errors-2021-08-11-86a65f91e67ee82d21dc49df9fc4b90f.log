@@ -1,0 +1,21 @@
+2021-08-11T08:38:39+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/woo-brand/classes/class-wc-brands.php on line 813
+
+2021-08-11T08:38:41+00:00 CRITICAL Uncaught Error: Call to a member function get_settings() on bool in /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/elementor/core/breakpoints/manager.php:223
+Stack trace:
+#0 /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/elementor/core/breakpoints/manager.php(43): Elementor\Core\Breakpoints\Manager->init_breakpoints()
+#1 /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/elementor/core/breakpoints/manager.php(76): Elementor\Core\Breakpoints\Manager->get_breakpoints()
+#2 /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/elementor/includes/frontend.php(530): Elementor\Core\Breakpoints\Manager->has_custom_breakpoints()
+#3 /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-includes/class-wp-hook.php(303): Elementor\Frontend->register_styles('')
+#4 /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /home/226898.cloudwaysapps.com/wcuzasd in /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/elementor/core/breakpoints/manager.php on line 223
+
+2021-08-11T08:38:44+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/woo-brand/classes/class-wc-brands.php on line 813
+
+2021-08-11T08:38:44+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/woo-brand/classes/class-wc-brands.php on line 813
+
+2021-08-11T08:38:44+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/woo-brand/classes/class-wc-brands.php on line 813
+
+2021-08-11T08:38:47+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/woo-brand/classes/class-wc-brands.php on line 813
+
+2021-08-11T08:38:50+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/226898.cloudwaysapps.com/wcuzasdtyy/public_html/wp-content/plugins/woo-brand/classes/class-wc-brands.php on line 813
+

@@ -1,0 +1,31 @@
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'],
+.button {
+	@extend %NormalTransition;
+	padding: 0 41px;
+	height: 48px;
+	line-height: 46px;
+	outline: none;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 26px;
+	font-size: 15px;
+	font-weight: 700;
+	cursor: pointer;
+	text-align: center;
+
+	&:focus {
+		outline: none;
+	}
+
+	&[disabled] {
+		cursor: not-allowed;
+		opacity: .5;
+	}
+}
+
+.button {
+	display: inline-block;
+}

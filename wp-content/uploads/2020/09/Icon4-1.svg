@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 56 56" style="enable-background:new 0 0 56 56;" xml:space="preserve">
+<style type="text/css">
+	.st0-icon4{fill:#FFF9DD;}
+	.st1-icon4{fill:#FFE777;}
+	.st2-icon4{fill:#FFD200;}
+</style>
+<title>Icon4</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Home-4" transform="translate(-643.000000, -1505.000000)">
+		<g id="Icon4" transform="translate(643.000000, 1505.000000)">
+			<path id="Path" class="st0-icon4" d="M45.5,56h-35C4.7,56,0,51.3,0,45.5v-35C0,4.7,4.7,0,10.5,0h35C51.3,0,56,4.7,56,10.5v35     C56,51.3,51.3,56,45.5,56z"></path>
+			<path class="st1-icon4" d="M28.3,37.3h-0.6c-1.1,0-2-0.9-2-2v-2.6H23c-1.1,0-2-0.9-2-2V30c0-1.1,0.9-2,2-2h2.6v-2.6c0-1.1,0.9-2,2-2     h0.6c1.1,0,2,0.9,2,2V28H33c1.1,0,2,0.9,2,2v0.6c0,1.1-0.9,2-2,2h-2.6v2.6C30.3,36.4,29.4,37.3,28.3,37.3z"></path>
+			<path id="Shape" class="st2-icon4" d="M38.5,15.2h-21c-1.9,0-3.5,1.6-3.5,3.5v18.7c0,1.9,1.6,3.5,3.5,3.5h21c1.9,0,3.5-1.6,3.5-3.5     V18.7C42,16.7,40.4,15.2,38.5,15.2z M38.5,38.5h-21c-0.6,0-1.2-0.5-1.2-1.2V21h23.3v16.3C39.7,38,39.1,38.5,38.5,38.5z"></path>
+		</g>
+	</g>
+</g>
+</svg>
